@@ -2,4 +2,4 @@
 10_Text_mining/stanford-parser-full-2016-10-31
 *.ipynb_checkpoints
 *.DS_Store
-
+~$*.pptx
